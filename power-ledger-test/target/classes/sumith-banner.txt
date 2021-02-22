@@ -1,0 +1,11 @@
+${AnsiColor.BRIGHT_GREEN} ${AnsiBackground.BLACK}
+  ___                                _                      _             
+ | _ \  ___  __ __ __  ___   _ _    | |     ___   __ _   __| |  ___   _ _ 
+ |  _/ / _ \ \ V  V / / -_) | '_|   | |__  / -_) / _` | / _` | / -_) | '_|
+ |_|   \___/  \_/\_/  \___| |_|     |____| \___| \__, | \__,_| \___| |_|  
+                                                 |___/                    
+${AnsiColor.BRIGHT_BLUE} ### Sumith Tomy ###
+
+${AnsiBackground.DEFAULT} ${AnsiColor.BRIGHT_GREEN} 
+Spring Boot ${spring-boot.version}
+${application.title} - ${application.formatted-version} ${AnsiBackground.DEFAULT} ${AnsiColor.DEFAULT}                                           

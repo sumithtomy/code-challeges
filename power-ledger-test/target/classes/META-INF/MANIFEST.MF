@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 15
+Implementation-Title: power-ledger-test
+Implementation-Version: 1.0.0-SNAPSHOT
+Main-Class: com.ledger.power.PowerLedgerTestApplication
+Created-By: Maven Integration for Eclipse
+
